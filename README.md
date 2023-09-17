@@ -1,9 +1,9 @@
-Michael Jessie Module One
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Michael Jessie Module One
 
-<!---
-mjessie9/mjessie9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Answers:
+
+1. Git is the free and open source distributed version control system that's responsible for everything GitHub
+related that happens locally on your computer.
+2. git branch "name of branch"
+3.
+

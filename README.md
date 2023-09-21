@@ -10,3 +10,4 @@ related that happens locally on your computer.
 5. When you make a change to the main branch you can create a new branch for the commit to be reviewed by someone else to see if it should be pushed to the main branch.
 
 
+![Smiling Faces](https://images.pexels.com/photos/207983/pexels-photo-207983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
